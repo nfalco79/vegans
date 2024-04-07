@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: example
+
+server:
+  servlet:
+    context-path: /example
